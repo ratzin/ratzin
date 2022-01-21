@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **updating my proyects to github**
 
-- 🌱 I’m currently learning **flutter, dart and python.**
+- 🌱 I’m currently learning **data analysis and python.**
 
 - 👯 I’m looking to collaborate on **the use of data to predict outcomes in sales**
 
